@@ -1,4 +1,4 @@
 # myfiles__
 my first repository
 <br>
-author aayushi gupta 
+author aayushi kumari
